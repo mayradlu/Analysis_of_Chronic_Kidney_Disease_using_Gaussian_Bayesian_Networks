@@ -1,5 +1,8 @@
-# Continuos-Bayesian-Networks
-## Wrote a scientific article about Bayesian Networks using continuos variables to calculate the probability of a person having chronic kidney disease (CKD).
+## A scientific article about Bayesian Networks using continuos variables to calculate the probability of a person having chronic kidney disease (CKD).
+
+
+
+
 
 # Python
 Used Python to clean a marker database for a sample of patients with and without CKD.
