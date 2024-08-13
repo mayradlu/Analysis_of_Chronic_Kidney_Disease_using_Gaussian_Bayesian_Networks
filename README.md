@@ -7,7 +7,9 @@ This project focuses on the application of Gaussian Bayesian Networks (GBNs) to 
 **Data Collection** Data from interviews with health experts were used to build the networks.
 
 **Modeling**
+
 -Linear Gaussian Bayesian Network: Models linear relationships between continuous variables using Gaussian distributions.
+
 -Nonparametric Bayesian Network: Captures more complex and nonlinear relationships between continuous variables.
 
 **Evaluation** The models were evaluated using BIC and AIC metrics, determining that nonparametric approaches performed better.
