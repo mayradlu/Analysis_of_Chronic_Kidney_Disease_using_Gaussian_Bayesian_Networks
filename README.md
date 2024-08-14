@@ -1,7 +1,7 @@
 ## A scientific article about Bayesian Networks using continuos variables to calculate the probability of a person having chronic kidney disease (CKD).
 
 # General information
-This project focuses on the application of Gaussian Bayesian Networks (GBNs) to model [Chronic Kidney Disease (CKD)](https://www.kidney.org/kidney-topics/chronic-kidney-disease-ckd), exploring both linear and nonparametric modeling approaches. The aim is to identify risk factors and predict disease progression by comparing these models, with the goal of determining which best fits the data.
+This project focuses on the application of Gaussian Bayesian Networks (GBNs) to model Chronic Kidney Disease (CKD), exploring both linear and nonparametric modeling approaches. The primary goal is to identify key risk factors and accurately predict disease progression by comparing these models, ultimately determining which approach best fits the data. By achieving this, the project aims to provide healthcare professionals with a powerful tool to identify individuals at risk of developing CKD at an early stage, enabling timely interventions and potentially improving patient outcomes through more personalized and preventive care strategies.
 
 # Project Structure 
 **Data Collection** Data from interviews with health experts were used to build the networks.
