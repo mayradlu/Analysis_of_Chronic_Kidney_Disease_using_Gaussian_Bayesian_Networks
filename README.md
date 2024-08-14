@@ -9,13 +9,15 @@ This project focuses on the application of Gaussian Bayesian Networks (GBNs) to 
 **Modeling**
 
 -Linear Gaussian Bayesian Network: Models linear relationships between continuous variables using Gaussian distributions.
+![imagen](https://github.com/user-attachments/assets/eb194fc0-1962-4a4c-b920-d5f68b83d4b2)
 
 -Nonparametric Bayesian Network: Captures more complex and nonlinear relationships between continuous variables.
+![imagen](https://github.com/user-attachments/assets/f82ed927-bbcc-4836-ac89-89c7dff2b17c)
+
+**Evaluation** The models were evaluated using BIC and AIC metrics, determining that nonparametric approaches performed better.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5d3d07d7-bfc0-4e02-b271-cf53f7db8022" alt="imagen" width="400">
 </p>
-
-**Evaluation** The models were evaluated using BIC and AIC metrics, determining that nonparametric approaches performed better.
 
 # Python
 Used Python to clean the database for a sample of patients with and without CKD.
